@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_chet"
+        android:icon="@drawable/ic_chet_24dp"
+        android:title="@string/title_chet" />
+
+    <item
+        android:id="@+id/navigation_nechet"
+        android:icon="@drawable/ic_nechet_24dp"
+        android:title="@string/title_nechet" />
+
+</menu>

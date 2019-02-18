@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dummy Student Manager</string>
+    <string name="title_chet">Четная</string>
+    <string name="title_nechet">Нечетная</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="main_schedule">Изменить расписание</string>
+    <string name="main_disciplines">Добавить/удалить предметы</string>
+
+</resources>
